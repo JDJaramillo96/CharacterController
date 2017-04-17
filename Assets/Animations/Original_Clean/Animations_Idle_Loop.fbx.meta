@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: b246f73a08f83f34b8a4e3a564ebe798
-timeCreated: 1492354982
+guid: 4f240cbc37069444ebd02d543397a649
+timeCreated: 1492440593
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
@@ -352,7 +352,7 @@ ModelImporter:
       name: Animations_Idle_Loop
       takeName: Idle_Loop
       firstFrame: 0
-      lastFrame: 230
+      lastFrame: 173
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
